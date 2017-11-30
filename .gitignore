@@ -1,0 +1,4 @@
+*.pyc
+secret_settings.py
+processed_thumbnail_files
+temporary_uploads
