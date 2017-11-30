@@ -1,0 +1,8 @@
+<p>Hello {{ user.username }}!</p>
+<p>Please confirm that you are trying to upload the following notebook to your AODS workspace (a preview is provided below):</p>
+<p><code>{{ notebook_url }}</code></p>
+<p><a href="/upload/{{ upload_token }}/{{notebook_url}}">Click here to confirm.</a></p>
+
+<hr />
+
+<iframe src="http://upload.aods.io/preview/{{ notebook_url }}" height="100%" width="100%" style="display: block;" frameborder="0" allowfullscreen></iframe>  
