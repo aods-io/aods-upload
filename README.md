@@ -76,6 +76,8 @@ server {
 }
 ```
 
+Instructions for Apache2 are coming soon!
+
 <hr>
 <small>
 <p><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0" /></a></p>
